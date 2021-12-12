@@ -7,6 +7,12 @@ A arquitectura foi, também, desenvolvida tendo em conta a possibilidade de se r
 
 [^1]: [Valente, A.; Silva, S.; Duarte, D.; Cabral Pinto, F.; Soares, S. Low-Cost LoRaWAN Node for Agro-Intelligence IoT. Electronics 2020, 9, 987. https://doi.org/10.3390/electronics9060987](https://www.mdpi.com/2079-9292/9/6/987)
 
+&nbsp;
 
+*** 
+
+&nbsp;
 
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
