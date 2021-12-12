@@ -18,28 +18,13 @@ Actualmente, as dotações de rega são calculadas manualmente, tendo por base o
 
 Nesse sentido, e tendo em vista uma gestão eficiente de rega, de forma a ser alcançado um impacto máximo, com o dispêndio de água estritamente necessário, torna-se premente o desenvolvimento de uma ferramenta que permita auxiliar esta gestão, sendo que esta necessitará, para o efeito, de ter em conta o impacto da rega no estado hídrico da planta, e, assim, este deverá necessariamente representar um dos inputs para o desenvolvimento de uma plataforma útil. 
 
-O desafio
---------------
-Ferramenta de suporte à decisão baseada em IA que permita, com recurso a diferentes inputs, optimizar a utilização de água numa determinada exploração vitivinícola
 
+&nbsp;
 
-A proposta
-------------
+*** 
 
-
-
-<!-- A proposta apresentada pela nossa equipa tem dois grandes pontos:
-
-1. [Projeto demonstrador](projeto.md) das potencialidades da tecnologia, e da mais-valia para a agricultura no Douro, consistindo em três gateways LoRaWAN e, sensores no terreno;
-
-1. [Avaliação](simul.md) dos locais onde colocar as gateway de modo a cobrir uma grande parte das quintas do Douro, e respetivos respectivos custos.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U12pQMDb9zc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
-
--->
-
-     
-     
+&nbsp;
 
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
